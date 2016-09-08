@@ -1,0 +1,1 @@
+Escribir una función que lea el número ingresado por el usuario, almacenar los números en un arreglo desde 1 hasta el número indicado y mostrar todos los elementos en el HTML.
